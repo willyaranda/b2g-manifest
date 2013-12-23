@@ -8,7 +8,6 @@
   <project name="device-manta" path="device/samsung/manta" remote="droid2fox" revision="b2g-4.3_r2.1"/>
   <project name="device/generic/armv7-a-neon" path="device/generic/armv7-a-neon"/>
   <project name="vendor_samsung_manta" path="vendor/samsung" remote="droid2fox"/>
-  <project name="platform/hardware/samsung_slsi/exynos5"path="hardware/samsung_slsi/exynos5"/>
   <project name="platform/external/libnfc-nci" path="external/libnfc-nci"/>
   <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8"/>
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan"/>
