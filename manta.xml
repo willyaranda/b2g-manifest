@@ -11,5 +11,6 @@
   <project name="platform/external/wpa_supplicant_8" path="external/wpa_supplicant_8"/>
   <project name="platform/hardware/broadcom/wlan" path="hardware/broadcom/wlan"/>
   <project name="platform/hardware/ril" path="hardware/ril"/>
+  <project name="platform/hardware/samsung_slsi/exynos5/" path="hardware/samsung_slsi/exynos5"/>
 
 </manifest>
